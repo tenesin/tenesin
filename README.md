@@ -30,7 +30,7 @@
 <br />
 <br />
 
-![tenesin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenesin&theme=great-gatsby_icons=true)
+![tenesin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenesin&theme=great-gatsby/show_icons=true)
 
 
 
