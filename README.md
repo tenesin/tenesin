@@ -30,7 +30,7 @@
 <br />
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![tenesin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenesin&theme=dark&show_icons=true)
 
 
 
