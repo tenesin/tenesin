@@ -4,8 +4,8 @@
 ## I'm a Student and Developer!!
 
 - 🌱 I’m currently learning everything
-- 🥅 2021 Goals: become more productive
-- ⚡ "the more u know the more u get"
+- 🥅 2021 Goals : become more productive
+- ⚡ Quote : "the more u know the more u get"
 
 ### Connect with me:
 
