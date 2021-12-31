@@ -1,10 +1,10 @@
-### Hi there, I'm Yudha 👋
+### Hi there, I'm Yudha
   
 
-## I'm a Student and Developer!!
+## I'm a Student
 
 - 🌱 I’m currently learning everything
-- 🥅 2021 Goals : become more productive
+- 🥅 2022 Goals : become more productive
 - ⚡ Quote : "the more u know the more u get"
 
 ### Connect with me:
