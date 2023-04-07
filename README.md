@@ -4,7 +4,7 @@
 ## I'm a Student
 
 - 🌱 I’m currently learning everything
-- 🥅 2022 Goals : become more productive
+- 🥅 2023 Goals : become more productive
 - ⚡ Quote : "the more u know the more u get"
 
 ### Connect with me:
