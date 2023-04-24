@@ -1,7 +1,7 @@
 ### Hi there, I'm Yudha
   
 
-## I'm a Student
+## I'm an Information Systems Student
 
 - 🌱 I’m currently learning everything
 - 🥅 2023 Goals : become more productive
