@@ -29,7 +29,7 @@ const skills =
   
   frameworks:[VueJs, Laravel, Tailwind, NodeJs, AngularJs , Spring, Django],
   
-  libraries: [ReactJs, ThreeJs, AOS]
+  libraries : [ReactJs, ThreeJs, AOS],
   
   databases :[MySql, PostgreSQL, Firebase, MongoDB],
   
