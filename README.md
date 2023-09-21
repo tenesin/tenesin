@@ -56,7 +56,7 @@ while(dev.isCoding() && dev.isStuck())
 ---
 
 
-<!-- <h2 align="center">Some of the projects I have worked on 👨‍💻:</h2>
+ <h2 align="center">Some of the projects I have worked on 👨‍💻:</h2>
 
 
 <center>
