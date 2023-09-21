@@ -19,19 +19,19 @@ document.write("Hello World");
 
 var status = 
 { 
-  learning : [Java(Spring Boot), Go],
-  interests: [Research, Open Source]
+  learning : [Java, Javascript]
+  interests: [Product Manager, Web Developer]
 }
 
 const skills = 
 {
-  languages :[Java, Python, Javascript],
+  languages :[Java, Python, Javascript]
   
-  frameworks:[VueJs, Laravel, Tailwind, NodeJs, AngularJs , Spring, Django],
+  frameworks:[VueJs, Laravel, Tailwind, NodeJs, AngularJs , Spring, Django]
   
-  libraries : [ReactJs, ThreeJs, AOS],
+  libraries : [ReactJs, ThreeJs, AOS]
   
-  databases :[MySql, PostgreSQL, Firebase, MongoDB],
+  databases :[MySql, PostgreSQL, Firebase, MongoDB]
   
   platforms :[Vercel, AWS, Firebase, Heroku, Netlify]
 }
