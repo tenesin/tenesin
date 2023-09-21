@@ -5,18 +5,18 @@
 <br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
 </p>
 <h3 align="right">Connect with me :</h3>
-<a href="https://linkedin.com/in/chiraag-kakar">
-  <img align="right" alt="Chiraag Kakar - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
+<a href="https://linkedin.com/in/ishaqyudha_">
+  <img align="right" alt="Ishaq Yudha - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
 </a>
 <a href="https://instagram.com/0212chiraag">
-  <img align="right" alt="Chiraag Kakar - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+  <img align="right" alt="Ishaq Yudha - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
 <a href="https://twitter.com/0212Chiraag">
-  <img align="right" alt="Chiraag Kakar - Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
+  <img align="right" alt="Ishaq Yudha - Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
 </a>
 <br/>
 <br/>
-<h2 align="center">Hi 👋, I'm Chiraag Kakar</h1>
+<h2 align="center">Hi 👋, I'm Ishaq Yudha</h1>
 
 
 ```js
@@ -31,19 +31,19 @@ var status =
 
 const skills = 
 {
-  languages :[Cpp, Python, Javascript],
+  languages :[Java, Python, Javascript],
   
-  frameworks:[VueJs(Quasar), Flutter, ExpressJs, LambdaJs, Flask, FastAPI, Django],
+  frameworks:[VueJs, Laravel, Tailwind, NodeJs, AngularJs , Spring, Django],
   
-  libraries: [ReactJs]
+  libraries: [ReactJs, ThreeJs, AOS]
   
-  databases :[MySql, PostgreSQL, Firebase, DynamoDb],
+  databases :[MySql, PostgreSQL, Firebase, MongoDB],
   
-  platforms :[GCP, AWS, Firebase, Heroku, Pythonanywhere]
+  platforms :[Vercel, AWS, Firebase, Heroku, Netlify]
 }
 
 
-Developer dev = new Developer(chiraag-kakar);
+Developer dev = new Developer(Ishaq Yudha);
 
 while(dev.isCoding() && dev.isStuck())  
 {
@@ -56,7 +56,7 @@ while(dev.isCoding() && dev.isStuck())
 
 ```
 <!-- 
- <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/chiraag-kakar"/> -->
+ <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/tenesin"/> -->
 
 
 ---
