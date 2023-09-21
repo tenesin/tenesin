@@ -1,6 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chiraag-kakar" alt="chiraag-kakar" /> </p>
-
-
 <p align="center">
 <br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
 </p>
@@ -8,11 +5,8 @@
 <a href="https://linkedin.com/in/ishaqyudha_">
   <img align="right" alt="Ishaq Yudha - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
 </a>
-<a href="https://instagram.com/0212chiraag">
+<a href="https://instagram.com/ishaqyudha_">
   <img align="right" alt="Ishaq Yudha - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
-</a>
-<a href="https://twitter.com/0212Chiraag">
-  <img align="right" alt="Ishaq Yudha - Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
 </a>
 <br/>
 <br/>
