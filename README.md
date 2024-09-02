@@ -3,9 +3,9 @@
 ### 🤓 About Me
 
 - 🔭 I’m currently working on my health and self-improvement.
-- 🌱 I’m currently learning JavaScript and Vue.
-- 👯 I’m looking forward to collaborate on JavaScript projects.
-- 💻 2023 Goals: Learn Vue, Express & improve my coding skills.
+- 🌱 I’m currently learning React and Flutter.
+- 👯 I’m looking forward to collaborate on Flutter projects.
+- 💻 2023 Goals: Learn Dart, Express & improve my coding skills.
 
 
 ---
