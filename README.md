@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my health and self-improvement.
 - 🌱 I’m currently learning React and Flutter.
 - 👯 I’m looking forward to collaborate on Flutter projects.
-- 💻 2023 Goals: Learn Dart, Express & improve my coding skills.
+- 💻 2024 Goals: Learn Dart, Express & improve my coding skills.
 
 
 ---
